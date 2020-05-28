@@ -1,0 +1,124 @@
+﻿count integer,gene,sample,individual,tissue
+437435,sxph,1,frog 21,Lv
+401328,sxph,1,frog 21,Lv
+412109,sxph,1,frog 21,Lv
+3855,sxph,2,frog 22,Lv
+3421,sxph,2,frog 22,Lv
+3985,sxph,2,frog 22,Lv
+2180,sxph,3,frog 23,Lv
+1362,sxph,3,frog 23,Lv
+1335,sxph,3,frog 23,Lv
+0,sxph,4,frog 26,Lv
+5,sxph,4,frog 26,Lv
+0,sxph,4,frog 26,Lv
+0,sxph,5,frog 27,Lv
+0,sxph,5,frog 27,Lv
+4,sxph,5,frog 27,Lv
+33,sxph,6,frog 21,Ey
+45,sxph,6,frog 21,Ey
+49,sxph,6,frog 21,Ey
+22,sxph,7,frog 22,Ey
+14,sxph,7,frog 22,Ey
+21,sxph,7,frog 22,Ey
+54,sxph,8,frog 23,Ey
+27,sxph,8,frog 23,Ey
+51,sxph,8,frog 23,Ey
+0,sxph,9,frog 26,Ey
+0,sxph,9,frog 26,Ey
+0,sxph,9,frog 26,Ey
+0,sxph,10,frog 27,Ey
+0,sxph,10,frog 27,Ey
+0,sxph,10,frog 27,Ey
+35,sxph,11,frog 21,Br
+57,sxph,11,frog 21,Br
+50,sxph,11,frog 21,Br
+69,sxph,12,frog 22,Br
+103,sxph,12,frog 22,Br
+113,sxph,12,frog 22,Br
+90,sxph,13,frog 23,Br
+124,sxph,13,frog 23,Br
+86,sxph,13,frog 23,Br
+0,sxph,14,frog 26,Br
+0,sxph,14,frog 26,Br
+0,sxph,14,frog 26,Br
+0,sxph,15,frog 27,Br
+0,sxph,15,frog 27,Br
+0,sxph,15,frog 27,Br
+301,sxph,16,frog 21,Gt
+301,sxph,16,frog 21,Gt
+334,sxph,16,frog 21,Gt
+14,sxph,17,frog 22,Gt
+27,sxph,17,frog 22,Gt
+27,sxph,17,frog 22,Gt
+8,sxph,18,frog 23,Gt
+0,sxph,18,frog 23,Gt
+6,sxph,18,frog 23,Gt
+0,sxph,19,frog 26,Gt
+0,sxph,19,frog 26,Gt
+4,sxph,19,frog 26,Gt
+0,sxph,20,frog 27,Gt
+0,sxph,20,frog 27,Gt
+0,sxph,20,frog 27,Gt
+4,sxph,21,frog 21,Sd
+10,sxph,21,frog 21,Sd
+0,sxph,21,frog 21,Sd
+9,sxph,22,frog 22,Sd
+8,sxph,22,frog 22,Sd
+16,sxph,22,frog 22,Sd
+38,sxph,23,frog 23,Sd
+33,sxph,23,frog 23,Sd
+25,sxph,23,frog 23,Sd
+0,sxph,24,frog 26,Sd
+0,sxph,24,frog 26,Sd
+0,sxph,24,frog 26,Sd
+5,sxph,25,frog 27,Sd
+0,sxph,25,frog 27,Sd
+0,sxph,25,frog 27,Sd
+0,sxph,26,frog 27,Sd
+0,sxph,26,frog 27,Sd
+3,sxph,26,frog 27,Sd
+11,sxph,27,frog 21,H/m
+14,sxph,27,frog 21,H/m
+16,sxph,27,frog 21,H/m
+54,sxph,28,frog 22,H/m
+41,sxph,28,frog 22,H/m
+43,sxph,28,frog 22,H/m
+49,sxph,29,frog 23,H/m
+55,sxph,29,frog 23,H/m
+49,sxph,29,frog 23,H/m
+0,sxph,30,frog 26,H/m
+0,sxph,30,frog 26,H/m
+0,sxph,30,frog 26,H/m
+0,sxph,31,frog 27,H/m
+0,sxph,31,frog 27,H/m
+5,sxph,31,frog 27,H/m
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
